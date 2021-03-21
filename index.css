@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@700&family=Passion+One&family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Kaushan+Script&family=Montserrat:wght@700&family=Passion+One&family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  padding: 10px;
+  text-align: left;
+}
+
+
+
+
+.grid-item {
+  margin-top: 50px;
+  margin-left: 20px;
+  font-family: 'Montserrat'
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+
+}
+
+.space {
+  color: white
+}
+
+.Creative {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Navigation {
+  display: inline;
+  color: white
+}
+
+a {
+  text-decoration: none;
+}
+
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+ a:visited {
+  color: white;
+  cursor: auto;
+}
+
+
+.nav-item {
+  margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+
+.Creative {
+  font-family: 'Kaushan Script', cursive;
+  color: white;
+  font-size: 100px;
+  margin: 0
+}
+
+.line {
+  border-bottom: 5px solid red;
+  width: 4em;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.Mogo {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 200px;
+  padding-top: 10px;
+  margin: 0
+}
+
+.Mogo2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 200px;
+  margin: 0
+}
+
+.logo {
+  font-size: 40px;
+  margin-left: 100px;
+  margin-right: 890px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Intro {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 50px;
+}
+
+.About {
+  text-align: center;
+  background-color: white;
+  margin-bottom: 100px;
+  margin: auto;
+}
+
+.Image {
+  margin: 20px;
+  margin-top: 40px;
+}
+
+
+
+
+.Form-Input {
+  padding: 12px 30px;
+  font-size: 15px;
+  border: 2px solid #e8e8e8;
+  border-radius: 4px;
+}
+
+.Send-Button {
+  border: none;
+  padding: 12px 50px;
+  background-color: #95e1d3;
+  color: white;
+  font-family: 'Montserrat', sans-serif , bold;
+
+}
+
+.Contact {
+  text-align: center;
+  margin: auto;
+}
+
+.Contact-Text {
+  margin-top: 210px;;
+}
+
+.Form {
+  display: inline-grid;
+  margin-top: 20px
+}
+
+.Service-item{
+  display: inline-grid;
+  margin: 10px;
+}
+
+.Services-items {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif
+}
+
+.icon{
+  color: #95e1d3;
+}
+
+.Form-Input {
+  margin-top: 10px;
+}
+
+.Send-Button {
+  margin-top: 20px;
+}
+
+.Services {
+  margin-top: 50px;
+  text-align: center;
+  background-color: white
+}
+
+.LearnMore-Button {
+  margin-bottom: 100px;
+  background-color: rgba(255, 0, 0, 0);
+  color: white;
+  border: 2px solid white;
+  padding: 14px 40px;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20px;
+}
+
+.Text {
+  font-family: 'Montserrat', sans-serif , bold;
+  margin-top: 100px;
+}
+body{
+  text-align: center;
+  background-color: #f8f8f8 ;
+}
+
+h2 {
+
+}
